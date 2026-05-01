@@ -1,5 +1,5 @@
 # M365-Outlook-TenantMigration-Cleanup
-After tenant Migration, Outlook is not getting the new tenant and it is trying to move back and search on Old Tenant since it use the old cache to authenticate and find the path for the Email
+After tenant Migration, Outlook is not getting the new tenant and it is trying to move back and search on Old Tenant since it use the old cache to authenticate and find the path for the Email. This will be an issue since we are not able to use anything.
 
 # M365 Outlook Tenant-to-Tenant Migration Cleanup Script
 
